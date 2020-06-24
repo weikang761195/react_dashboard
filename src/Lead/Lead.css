@@ -1,0 +1,12 @@
+.lead-data{
+	font-size: 60px;
+	padding-left: 70px;
+}
+
+.lead-card{
+  background-color: #2a2a2a;
+  margin: 4px;
+  padding: 20px;
+  width: 280px;
+  height: 200px;
+}

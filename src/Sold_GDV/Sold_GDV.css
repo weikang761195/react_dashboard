@@ -1,0 +1,13 @@
+.sold-gdv-data{
+	font-size: 35px;
+	padding-left: 20px;
+	padding-top: 18px;
+}
+
+.sold-gdv-card{
+  background-color: #2a2a2a;
+  margin: 4px;
+  padding: 20px;
+  width: 300px;
+  height: 200px;
+}

@@ -1,0 +1,20 @@
+.profile-data{
+	font-size: 60px;
+	padding-left: 70px;
+}
+
+.profile-card{
+  background-color: #2a2a2a;
+  margin: 4px;
+  padding: 20px;
+  width: 270px;
+  height: 230px;
+}
+.fa-user-alt{
+	font-size: 50px;
+}
+.welcome{
+	font-weight: 1px;
+	font-family: 'Roboto', sans-serif;
+	font-size: 13px;
+}
